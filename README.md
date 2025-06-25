@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me
 
-- 📧 **Email:** [shohebdeshmukh9@gmail.com](mailto:shohebdeshmukh56@gmail.com)  
+- 📧 **Email:** [shohebdeshmukh56@gmail.com](mailto:shohebdeshmukh56@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/shohebdeshmukh]([https://www.linkedin.com/in/shohebdeshmukh](https://www.linkedin.com/in/shoheb-deshmukh-1b27b1313/))  
 - 🌍 **Portfolio:** [shohebdev.web.app]([https://shohebdev.web.app](https://shohebdeshmukhportfoilo.netlify.app/))
 
